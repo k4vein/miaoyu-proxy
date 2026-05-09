@@ -1,0 +1,6 @@
+{
+  "name": "companion-proxy",
+  "version": "1.0.0",
+  "description": "喵语 API 代理 - Vercel 版本",
+  "dependencies": {}
+}
